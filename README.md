@@ -42,7 +42,7 @@ Clone the repository:
 * git clone https://github.com/gayatripawar2001/Scripts.git
   
 Navigate to the script directory:
-* cd repository-name
+* cd Scripts
   
 Make the script executable:
 * chmod +x monitoring.sh
