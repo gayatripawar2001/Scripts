@@ -39,7 +39,7 @@ To view individual sections of the dashboard, use the corresponding command-line
 ## Excecution
 --------------------
 Clone the repository:
-* git clone https://github.com/your-username/repository-name.git
+* git clone https://github.com/gayatripawar2001/Scripts.git
   
 Navigate to the script directory:
 * cd repository-name
